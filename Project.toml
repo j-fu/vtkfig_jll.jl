@@ -1,0 +1,11 @@
+name = "vtkfig_jll"
+uuid = "10287013-a584-5a38-a29a-42553acd0316"
+version = "0.21.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+VTKMinimal_jll = "529833da-d7f1-5821-aee9-3785d4589272"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"

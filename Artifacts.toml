@@ -1,0 +1,10 @@
+[[vtkfig]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2862cb551251e8b7a5bb2276bff4df39651b5ce1"
+libc = "glibc"
+os = "linux"
+
+    [[vtkfig.download]]
+    sha256 = "34a2800590a5a568d275bc28fea292eaf5bd38814c1c0ed6c6791f6e2de7f702"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.21.0+0/vtkfig.v0.21.0.x86_64-linux-gnu-cxx11.tar.gz"
