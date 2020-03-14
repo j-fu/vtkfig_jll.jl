@@ -1,6 +1,6 @@
 name = "vtkfig_jll"
 uuid = "10287013-a584-5a38-a29a-42553acd0316"
-version = "0.22.0+0"
+version = "0.23.0+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
