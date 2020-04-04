@@ -1,10 +1,99 @@
 [[vtkfig]]
-arch = "x86_64"
+arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ff3d9fe0a885b5c5a4dd3b23cd5691525de00a9e"
+git-tree-sha1 = "d1679d7aecf738b3b661b88b43a02a3b1421dc03"
 libc = "glibc"
 os = "linux"
 
     [[vtkfig.download]]
-    sha256 = "694dc5baed619cce20d804cd2d014bd6968b44c527178b67716bdbebf6bd7812"
-    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.2+0/vtkfig.v0.24.2.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "86ed615618372959eb5785437ddaa0d60f3347efd2fd68c29c6b2774feb2cd85"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.3+0/vtkfig.v0.24.3.aarch64-linux-gnu-cxx11.tar.gz"
+[[vtkfig]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "91db6fc6f3e014b21a35f88c4ae00adf37e38ec3"
+libc = "glibc"
+os = "linux"
+
+    [[vtkfig.download]]
+    sha256 = "32c34c8ac285fd68333d3e9ba946dee16b08871e553b93c5feb2cce7c309369e"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.3+0/vtkfig.v0.24.3.i686-linux-gnu-cxx11.tar.gz"
+[[vtkfig]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "100ced66a12d293edeccda72154fe0a85bb03460"
+libc = "musl"
+os = "linux"
+
+    [[vtkfig.download]]
+    sha256 = "950cdc54de8b43bf4b14c58edd11a2988c8573b60582414a8c95b6708c3935ea"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.3+0/vtkfig.v0.24.3.aarch64-linux-musl-cxx11.tar.gz"
+[[vtkfig]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e94ec939fc476dd93f63dd11b76971a1ecb3434a"
+libc = "musl"
+os = "linux"
+
+    [[vtkfig.download]]
+    sha256 = "31fbda7367b7aef1c2f1a3967eb2f897866c28ced463d6265a46f6455bf7bc60"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.3+0/vtkfig.v0.24.3.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[vtkfig]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c9dc2c3ed08ec4d5a0d3b584fa2d9d48b37c141"
+libc = "musl"
+os = "linux"
+
+    [[vtkfig.download]]
+    sha256 = "7387b3edb1ce9dc1909d0f5ab0dc1f8d2aacacba58232c2d52c008b0ed082eb7"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.3+0/vtkfig.v0.24.3.i686-linux-musl-cxx11.tar.gz"
+[[vtkfig]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9f91cea36f00f7e0dbcb186d1355634dac22c93f"
+libc = "musl"
+os = "linux"
+
+    [[vtkfig.download]]
+    sha256 = "f8dcc67d4035a2f1f05b4e854734086737bca2bd9dded3491edca5b9d905d62e"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.3+0/vtkfig.v0.24.3.x86_64-linux-musl-cxx11.tar.gz"
+[[vtkfig]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a78ee5d87e6fb2f3a36dce4c31c4d5dc2d47a086"
+libc = "glibc"
+os = "linux"
+
+    [[vtkfig.download]]
+    sha256 = "5cfc15de5c0fcfec98c475cca02fcbb51a1cc369d1b54cd8ea5be6a990f06681"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.3+0/vtkfig.v0.24.3.x86_64-linux-gnu-cxx11.tar.gz"
+[[vtkfig]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fe6561679c00035a49c9ca982a7b459c8fa0b5de"
+libc = "glibc"
+os = "linux"
+
+    [[vtkfig.download]]
+    sha256 = "c0e39dae0782173903c0719d8d27f02265f55fa0451fc4e26aae68910ed844e9"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.3+0/vtkfig.v0.24.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[vtkfig]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ed4329ab78a644bb3d2e9b52263bec7d87db3cf7"
+libc = "glibc"
+os = "linux"
+
+    [[vtkfig.download]]
+    sha256 = "8b85b66cd48896dc4b0ffe8a06e95e4a13e69f648163eefe7d45bda49f8043cf"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.3+0/vtkfig.v0.24.3.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[vtkfig]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c6e9dafefe011f5e2dab6c2e9bc0d79953bf1a68"
+os = "freebsd"
+
+    [[vtkfig.download]]
+    sha256 = "9e79ad62d26e1c9f80cab8aa93ce27365be7c37ceda10c3ebbf97e7313b232b3"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.3+0/vtkfig.v0.24.3.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
