@@ -1,99 +1,99 @@
 [[vtkfig]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d1679d7aecf738b3b661b88b43a02a3b1421dc03"
+git-tree-sha1 = "7ed293678cdbe3184baaafb75a7ce0d750233f1d"
 libc = "glibc"
 os = "linux"
 
     [[vtkfig.download]]
-    sha256 = "86ed615618372959eb5785437ddaa0d60f3347efd2fd68c29c6b2774feb2cd85"
-    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.3+0/vtkfig.v0.24.3.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "eb678029ad0e822c63e90d4d4f6794820df405f9b9144b86687889da266186e7"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.4+0/vtkfig.v0.24.4.aarch64-linux-gnu-cxx11.tar.gz"
 [[vtkfig]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "91db6fc6f3e014b21a35f88c4ae00adf37e38ec3"
+git-tree-sha1 = "ae7782ef2c8c8dd075ed523c1a77ad2d3d96b448"
 libc = "glibc"
 os = "linux"
 
     [[vtkfig.download]]
-    sha256 = "32c34c8ac285fd68333d3e9ba946dee16b08871e553b93c5feb2cce7c309369e"
-    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.3+0/vtkfig.v0.24.3.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "b373cc220db4162c7223275abefc4720ffc43e016e1136a1a51ee6012d822cbd"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.4+0/vtkfig.v0.24.4.i686-linux-gnu-cxx11.tar.gz"
 [[vtkfig]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "100ced66a12d293edeccda72154fe0a85bb03460"
+git-tree-sha1 = "1d2e2577b0f6fa676cf9771addb29418e34ab8b8"
 libc = "musl"
 os = "linux"
 
     [[vtkfig.download]]
-    sha256 = "950cdc54de8b43bf4b14c58edd11a2988c8573b60582414a8c95b6708c3935ea"
-    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.3+0/vtkfig.v0.24.3.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "00a7941988d658512645f139493985f3ccd2b05ac59c86cbb13eb2c4b91a606a"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.4+0/vtkfig.v0.24.4.aarch64-linux-musl-cxx11.tar.gz"
 [[vtkfig]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e94ec939fc476dd93f63dd11b76971a1ecb3434a"
+git-tree-sha1 = "c4bdad839fa62bd1ad6eebc64b01a739896bff7d"
 libc = "musl"
 os = "linux"
 
     [[vtkfig.download]]
-    sha256 = "31fbda7367b7aef1c2f1a3967eb2f897866c28ced463d6265a46f6455bf7bc60"
-    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.3+0/vtkfig.v0.24.3.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "420fab67765497a2cd8f112db945e1391e735fda70000b8877086b4ec246624d"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.4+0/vtkfig.v0.24.4.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[vtkfig]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3c9dc2c3ed08ec4d5a0d3b584fa2d9d48b37c141"
+git-tree-sha1 = "83497e6773d07d010582c5736e619a5d72de7f9b"
 libc = "musl"
 os = "linux"
 
     [[vtkfig.download]]
-    sha256 = "7387b3edb1ce9dc1909d0f5ab0dc1f8d2aacacba58232c2d52c008b0ed082eb7"
-    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.3+0/vtkfig.v0.24.3.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "2c112a06962652516726e3a73ed01ef9284af5246fbc3389ac22f76ffd888458"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.4+0/vtkfig.v0.24.4.i686-linux-musl-cxx11.tar.gz"
 [[vtkfig]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9f91cea36f00f7e0dbcb186d1355634dac22c93f"
+git-tree-sha1 = "34b33fc91288b700a4358b92f983a41c1352be60"
 libc = "musl"
 os = "linux"
 
     [[vtkfig.download]]
-    sha256 = "f8dcc67d4035a2f1f05b4e854734086737bca2bd9dded3491edca5b9d905d62e"
-    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.3+0/vtkfig.v0.24.3.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "56f4b0d9d8816281f63b3da3b1165d2fd10345a48db8d2aaaa99beb71a28fd54"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.4+0/vtkfig.v0.24.4.x86_64-linux-musl-cxx11.tar.gz"
 [[vtkfig]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a78ee5d87e6fb2f3a36dce4c31c4d5dc2d47a086"
+git-tree-sha1 = "5e079876a15f732d05626e7e3e6f7d8455a70d41"
 libc = "glibc"
 os = "linux"
 
     [[vtkfig.download]]
-    sha256 = "5cfc15de5c0fcfec98c475cca02fcbb51a1cc369d1b54cd8ea5be6a990f06681"
-    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.3+0/vtkfig.v0.24.3.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "2b9f7e0506d5c3258fdb085825adf7e138d267512ca98801ba1592c939aec619"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.4+0/vtkfig.v0.24.4.x86_64-linux-gnu-cxx11.tar.gz"
 [[vtkfig]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fe6561679c00035a49c9ca982a7b459c8fa0b5de"
+git-tree-sha1 = "cc8349bb581a73ece3b475b4f2aaffa47af2fd7a"
 libc = "glibc"
 os = "linux"
 
     [[vtkfig.download]]
-    sha256 = "c0e39dae0782173903c0719d8d27f02265f55fa0451fc4e26aae68910ed844e9"
-    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.3+0/vtkfig.v0.24.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "9cc9657fb965df448815b2a5cbb41a83fecccc60ba3eacfb1d6282afbd89d449"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.4+0/vtkfig.v0.24.4.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[vtkfig]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ed4329ab78a644bb3d2e9b52263bec7d87db3cf7"
+git-tree-sha1 = "12a5df58824efd72a2b6d53f2af405b65e2219d0"
 libc = "glibc"
 os = "linux"
 
     [[vtkfig.download]]
-    sha256 = "8b85b66cd48896dc4b0ffe8a06e95e4a13e69f648163eefe7d45bda49f8043cf"
-    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.3+0/vtkfig.v0.24.3.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "94f73ee0e03d883b5eefeadb869f719b8cc34c66c14c06b1146dda4176c3e8b1"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.4+0/vtkfig.v0.24.4.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[vtkfig]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c6e9dafefe011f5e2dab6c2e9bc0d79953bf1a68"
+git-tree-sha1 = "df0870e4b2834f610ef97793edf9e462f6813361"
 os = "freebsd"
 
     [[vtkfig.download]]
-    sha256 = "9e79ad62d26e1c9f80cab8aa93ce27365be7c37ceda10c3ebbf97e7313b232b3"
-    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.3+0/vtkfig.v0.24.3.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+    sha256 = "0fa1e54eaa35d7da2549158f4d4d5566eb6b8752c277f488af3f164a23ffa731"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.24.4+0/vtkfig.v0.24.4.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
