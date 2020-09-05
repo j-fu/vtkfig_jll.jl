@@ -59,16 +59,6 @@ os = "linux"
     sha256 = "4d12c4f04d8fb0cb02146a23d6a4e228328009ecb6452a936978a64c3ad8eaf2"
     url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.25.1+0/vtkfig.v0.25.1.x86_64-linux-musl-cxx11.tar.gz"
 [[vtkfig]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "f63f25f1c2ec4cff8420840ef6d8c2db2f2285d5"
-libc = "glibc"
-os = "linux"
-
-    [[vtkfig.download]]
-    sha256 = "cfe06074bbd55ac4608609614dee3271ace9034e1b320072a1a27221e67ca1e8"
-    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.25.1+0/vtkfig.v0.25.1.x86_64-linux-gnu-cxx11.tar.gz"
-[[vtkfig]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
 git-tree-sha1 = "486d1ed43cb9ff00759ea50a8123e11ef3c35de6"
@@ -97,3 +87,13 @@ os = "freebsd"
     [[vtkfig.download]]
     sha256 = "7ced4774e7215e5ef530cf251d7edfedc54450edef425a5c1819537d771e758f"
     url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.25.1+0/vtkfig.v0.25.1.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+[[vtkfig]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8ece094ce47e5eb95f8b83071e12551018e815a2"
+libc = "glibc"
+os = "linux"
+
+    [[vtkfig.download]]
+    sha256 = "668e6248a2963feb72ec920689289564ebc352a06f760388604fa874467a8310"
+    url = "https://github.com/j-fu/vtkfig_jll.jl/releases/download/vtkfig-v0.25.2+0/vtkfig.v0.25.2.x86_64-linux-gnu-cxx11.tar.gz"
